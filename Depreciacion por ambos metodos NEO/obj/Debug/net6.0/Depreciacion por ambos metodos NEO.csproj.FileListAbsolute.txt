@@ -1,0 +1,15 @@
+C:\Users\erick\source\repos\Depreciacion por ambos metodos NEO\Depreciacion por ambos metodos NEO\bin\Debug\net6.0\Depreciacion por ambos metodos NEO.exe
+C:\Users\erick\source\repos\Depreciacion por ambos metodos NEO\Depreciacion por ambos metodos NEO\bin\Debug\net6.0\Depreciacion por ambos metodos NEO.deps.json
+C:\Users\erick\source\repos\Depreciacion por ambos metodos NEO\Depreciacion por ambos metodos NEO\bin\Debug\net6.0\Depreciacion por ambos metodos NEO.runtimeconfig.json
+C:\Users\erick\source\repos\Depreciacion por ambos metodos NEO\Depreciacion por ambos metodos NEO\bin\Debug\net6.0\Depreciacion por ambos metodos NEO.dll
+C:\Users\erick\source\repos\Depreciacion por ambos metodos NEO\Depreciacion por ambos metodos NEO\bin\Debug\net6.0\Depreciacion por ambos metodos NEO.pdb
+C:\Users\erick\source\repos\Depreciacion por ambos metodos NEO\Depreciacion por ambos metodos NEO\obj\Debug\net6.0\Depreciacion por ambos metodos NEO.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Depreciacion por ambos metodos NEO\Depreciacion por ambos metodos NEO\obj\Debug\net6.0\Depreciacion por ambos metodos NEO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\Depreciacion por ambos metodos NEO\Depreciacion por ambos metodos NEO\obj\Debug\net6.0\Depreciacion por ambos metodos NEO.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\Depreciacion por ambos metodos NEO\Depreciacion por ambos metodos NEO\obj\Debug\net6.0\Depreciacion por ambos metodos NEO.AssemblyInfo.cs
+C:\Users\erick\source\repos\Depreciacion por ambos metodos NEO\Depreciacion por ambos metodos NEO\obj\Debug\net6.0\Depreciacion por ambos metodos NEO.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Depreciacion por ambos metodos NEO\Depreciacion por ambos metodos NEO\obj\Debug\net6.0\Depreciacion por ambos metodos NEO.dll
+C:\Users\erick\source\repos\Depreciacion por ambos metodos NEO\Depreciacion por ambos metodos NEO\obj\Debug\net6.0\refint\Depreciacion por ambos metodos NEO.dll
+C:\Users\erick\source\repos\Depreciacion por ambos metodos NEO\Depreciacion por ambos metodos NEO\obj\Debug\net6.0\Depreciacion por ambos metodos NEO.pdb
+C:\Users\erick\source\repos\Depreciacion por ambos metodos NEO\Depreciacion por ambos metodos NEO\obj\Debug\net6.0\Depreciacion por ambos metodos NEO.genruntimeconfig.cache
+C:\Users\erick\source\repos\Depreciacion por ambos metodos NEO\Depreciacion por ambos metodos NEO\obj\Debug\net6.0\ref\Depreciacion por ambos metodos NEO.dll
